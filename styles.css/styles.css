@@ -1,0 +1,143 @@
+/* Common styles*/
+body {
+    font-family:
+}
+/* Header styles */
+.header {
+}
+.nav {
+}
+.nav-header {
+}
+.logo-Simply {
+    color: #111111;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.14;
+    text-transform: uppercase;
+}
+.logo-chocolate {
+    color: #111111;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+.list {
+}
+.list-menu {
+}
+.list-header {
+}
+.nav-list {
+}
+.list-media {
+}
+.inst {
+}
+.twit {
+}
+
+/* Main styles */
+.first {
+}
+.first-title {
+}
+.list {
+}
+.first-buttons {
+}
+.li-first {
+}
+.buy {
+}
+.made {
+}
+.scroll {
+}
+.benefits {
+}
+.title-ben {
+}
+.list-benefits {
+}
+.li-ben {
+}
+.title-benefits {
+}
+.text-ben {
+}
+.products {
+}
+.title-products {
+}
+.text-products {
+}
+.list-products {
+}
+.li-products {
+}
+.name-products {
+}
+.how {
+}
+.title-how {
+}
+.title-try {
+}
+.list-try {
+}
+.li-how {
+}
+.text-how {
+}
+.rewiews {
+}
+.title-rewiews {
+}
+.list-rewiews {
+}
+.li-rewiews {
+}
+.names-rewiews {
+}
+.text-rewiew {
+}
+.button-rewiew {
+}
+
+/*Footer styles */
+.footer {
+}
+.text-footer {
+}
+.footer-address {
+}
+.list {
+}
+.list-footer {
+}
+.li-address {
+}
+.adress-list {
+}
+.address-list {
+}
+.list-menu-footer {
+}
+.li-menu-footer {
+}
+.nav-list {
+}
+.list-buttons {
+}
+.li-buttons {
+}
+.button-email {
+}
+.button-subscribe {
+}
